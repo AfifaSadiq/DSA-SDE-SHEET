@@ -1,0 +1,5 @@
+use hash map of size n; as size of array is n+1; and range is [1,n] both inclusive
+traverse array and increment count, the moment the count of an element becomes 2 return that element
+
+tc: O(n)
+sc: O(n)
