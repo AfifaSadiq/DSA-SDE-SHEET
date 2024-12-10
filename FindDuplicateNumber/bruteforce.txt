@@ -1,0 +1,3 @@
+sorting the array,
+then check if elements at index i, i+1 are same return that element
+
